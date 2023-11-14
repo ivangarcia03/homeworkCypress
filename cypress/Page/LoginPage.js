@@ -35,10 +35,6 @@ class LoginPage {
         return cy.get('#submit')
     }
 
-    
-
-
-
 
 }
 
